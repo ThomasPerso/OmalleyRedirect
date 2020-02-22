@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Meow </title>
+  <title> Meow </title>
 </head>
 
 <body>
