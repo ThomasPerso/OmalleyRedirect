@@ -1,9 +1,7 @@
-# OmalleyRedirect
+# Welcome
 <html>
 
-<head>
-  <title> Meow </title>
-</head>
+
 
 <body>
   <p>Hello World</p>
