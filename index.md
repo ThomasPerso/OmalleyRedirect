@@ -58,14 +58,18 @@ ___
 ___
 
 # dsqdq
-----------
+___
 
 [linkname](https://link "linkdesc")
 
 ___
 ___
 
-> quote
+### Equations
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
 
 ___
 ___
@@ -129,3 +133,4 @@ ___
 
 ___
 ___
+
