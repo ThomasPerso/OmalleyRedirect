@@ -53,17 +53,20 @@ ___
 ___
 ___
 
-`quote`
+`text`
+
 ___
 
 # dsqdq
 ----------
 
 [linkname](https://link "linkdesc")
+
 ___
 ___
 
 > quote
+
 ___
 ___
 
@@ -76,6 +79,7 @@ ___
     * g
     * h
     * i
+    
 ___
 ___
 
@@ -93,21 +97,6 @@ ___
 
 ___ 
 ___
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-___
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-___
-___
-
 
 ### Youtube video:
 
