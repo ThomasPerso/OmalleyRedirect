@@ -100,11 +100,16 @@ ___
 
 ### Youtube video:
 
+* In new tab
+
 <a href="https://www.youtube.com/embed/SkgTxQm9DWM 
 " target="_blank"><img src="https://i.ytimg.com/vi/SkgTxQm9DWM/maxresdefault.jpg" 
 alt="Nyancat video" width="240" height="180" border="10" /></a>
 
 ___
+
+
+* In same page
 
 [![Nyancat video](https://i.ytimg.com/vi/SkgTxQm9DWM/maxresdefault.jpg)](https://www.youtube.com/embed/SkgTxQm9DWM "NYANCAT" )
 ___
