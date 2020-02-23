@@ -65,15 +65,6 @@ ___
 ___
 ___
 
-### Equations
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-___
-___
-
 * a
 * b
 * c
@@ -93,6 +84,10 @@ ___
 - [x] Mars
   - [ ] Deimos
   - [ ] Phobos
+___
+___
+
+> quote
 
 <!-- Comment -->
 ___
